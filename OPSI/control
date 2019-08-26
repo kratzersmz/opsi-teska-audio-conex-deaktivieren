@@ -4,8 +4,8 @@ depends:
 
 [Product]
 type: localboot
-id: hp-audiodienste-deaktivieren
-name: hp-audiodienste-deaktivieren
+id: teska-hp-audiodienste-deaktivieren
+name: teska-hp-audiodienste-deaktivieren
 description: Deaktiviert HP Audiodienste mit Fehlermeldung conexant...
 advice: 
 version: 1.0
